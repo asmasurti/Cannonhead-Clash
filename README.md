@@ -37,3 +37,12 @@ Once the user selects to play, the specified level is loaded and the two players
 The players can automatically move up or down a level within a one block range. 
 
 ![Controls](/images/controls.jpg)
+
+## Gameplay 
+- The bombs can destroy the platform blocks if they do not hit a player and a player wins a point if the opposing player is:
+  - Hit with a bomb or 
+  - Falls off a platform block and into the water 
+- The respective score for each player is displayed and updated at the bottom of the platforms. 
+
+Once one of the players reaches the number of points to win, selected at the start of the game, the game ends. The winner is displayed for a couple seconds and the menu screen is displayed where the user can choose the settings to play at again. 
+
