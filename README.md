@@ -49,3 +49,5 @@ The players can automatically move up or down a level within a one block range.
 
 Once one of the players reaches the number of points to win, selected at the start of the game, the game ends. The winner is displayed for a couple seconds and the menu screen is displayed where the user can choose the settings to play at again. 
 
+![Playing Game GIF](/images/playingGame.gif) 
+
