@@ -13,7 +13,10 @@ Cannonhead Clash is a two player game where the objective is to hit the opposing
   - There are five different levels that the user can choose from and the points to win can range from one to five with one being the default option for both
   - To start the game, the spacebar must be pressed with the selection arrow at “PLAY” 
 
-![Main Screen](/images/gameplay.jpeg | width = 100)
+<img src="/images/gameplay.jpeg" alt="Menu Screen" width="605" /> 
+
+![Loading Level GIF](/images/loadLevel.gif) 
+
 
 ## Levels 
 There are five differnt levels that the user can choose from (they are not in order of difficulty). 
@@ -36,7 +39,7 @@ Once the user selects to play, the specified level is loaded and the two players
  
 The players can automatically move up or down a level within a one block range. 
 
-![Controls](/images/controls.jpg)
+<img src="/images/controls.jpg" alt="Controls" width="605" /> 
 
 ## Gameplay 
 - The bombs can destroy the platform blocks if they do not hit a player and a player wins a point if the opposing player is:
