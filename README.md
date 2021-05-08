@@ -1,9 +1,9 @@
 # Cannonhead-Clash
-A multiplayer game coded in C that runs on [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc). The game uses double buffering to display smooth visuals and animations on a VGA frame buffer. Additionally, the PS/2 keyboard is used for input. It generates interrupts which are dealt with accordingly to produce the needed output. 
+A multiplayer game coded in C that runs on [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc). The game uses double buffering to display smooth visuals and animations on a VGA frame buffer. Additionally, the game uses the PS/2 Keyboard typed input for all user interaction and gameplay. It generates interrupts which are dealt with accordingly to produce the needed output. 
 
 This project was created for ECE243 which is a course at the University of Toronto on computer organization. As part of the course guidelines, the source code cannot be publicly shared, howvever, detailed description and gameplay images are given below. 
 
-**Note: The game uses the PS/2 Keyboard typed input for all user interaction and gameplay**
+**The concepts and characters for this game have been adapted from: https://atariage.com/store/index.php?l=product_detail&p=1227**
 
 ## Menu Screen
 Cannonhead Clash is a two player game where the objective is to hit the opposing player with a bomb, without falling into the water underneath a platform that the player is placed on.
