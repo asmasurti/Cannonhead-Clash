@@ -13,7 +13,7 @@ Cannonhead Clash is a two player game where the objective is to hit the opposing
   - There are five different levels that the user can choose from and the points to win can range from one to five with one being the default option for both
   - To start the game, the spacebar must be pressed with the selection arrow at “PLAY” 
 
-![Main Screen](/images/gameplay.jpeg)
+![Main Screen](/images/gameplay.jpeg | width = 100)
 
 ## Levels 
 There are five differnt levels that the user can choose from (they are not in order of difficulty). 
